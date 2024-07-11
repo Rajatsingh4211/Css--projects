@@ -1,0 +1,25 @@
+:root{
+    --dark-red: #981a2c;
+    --blue: #2619d4; 
+}
+
+.container{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    background-color: var(--dark-red);
+}
+
+.box{
+    border: 1px solid black;
+    background-color: var(--blue);
+}
+
+.boox{
+    border: 3px solid black;
+    height: 400px;
+    width: 400px;
+    margin-top: 10%;
+    margin-left: 20%;
+    background-color: var(--blue);
+}
